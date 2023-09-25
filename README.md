@@ -3,13 +3,12 @@
 
 - 🌱 I’m currently learning **Pyhton, Flask, Javascript, React**
 
-- 👨‍💻 All of my projects are available at [https://siddharthgupta007.github.io/Portfolio/](https://siddharthgupta007.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://shorturl.at/jsyEX](https://shorturl.at/jsyEX)
 
 - 📫 How to reach me **siddharthguptaatwork@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddharthgupta007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddharthgupta007/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
